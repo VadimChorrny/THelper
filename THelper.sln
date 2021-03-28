@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "THelper", "THelper\THelper.csproj", "{102FA1B6-BD51-4DBE-BD45-BA77602FA1E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102FA1B6-BD51-4DBE-BD45-BA77602FA1E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102FA1B6-BD51-4DBE-BD45-BA77602FA1E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102FA1B6-BD51-4DBE-BD45-BA77602FA1E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102FA1B6-BD51-4DBE-BD45-BA77602FA1E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2DA04B7-D24B-47C4-8032-61C8B047513A}
+	EndGlobalSection
+EndGlobal
